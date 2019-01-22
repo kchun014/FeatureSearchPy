@@ -1,2 +1,4 @@
 # FeatureSearchPy
-Feature Search in Python, with optimizations and forward/backward feature serach
+Feature Search in Python, with optimizations and forward/backward feature search
+
+
